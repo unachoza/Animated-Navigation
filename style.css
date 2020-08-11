@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 :root {
   --primaryColor: #fff;
-  --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor1: #0058ac;
+  --navColor2: #00a7de;
+  --navColor3: #f07393;
+  --navColor4: #7ba84d;
+  --navColor5: #ed982a;
 }
 
 html {
